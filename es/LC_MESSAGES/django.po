@@ -87,7 +87,7 @@ msgstr "Por favor corrija los errores en el formulario"
 
 #: .\templates\otree\RoomInputLabel.html:7
 msgid "Welcome"
-msgstr ""
+msgstr "Bienvenido"
 
 #. Translators: If the user enters an invalid participant label
 #: .\templates\otree\RoomInputLabel.html:13
